@@ -1,0 +1,6 @@
+env/
+__pycache__/
+*.pyc
+terrain_model.onnx
+terrain_model.onnx.data
+terrain_model_tf/
